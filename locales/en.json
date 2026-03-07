@@ -1,0 +1,177 @@
+{
+  "nav": {
+    "skills": "Skills",
+    "projects": "Projects",
+    "buildSystem": "Build Your System",
+    "home": "Home"
+  },
+  "hero": {
+    "available": "Available for new projects",
+    "greeting": "Hi, I'm",
+    "name": "Mohammed",
+    "title": "Full Stack Developer",
+    "description": "Crafting exceptional digital experiences with {vue}, {nuxt}, {angular} & {dotnet}",
+    "buildSystem": "Start Building",
+    "chat": "Let's Chat",
+    "viewProjects": "View Projects",
+    "techStack": "Tech Stack",
+    "yearsExp": "5+ Years Exp",
+    "projects": "50+ Projects"
+  },
+  "skills": {
+    "badge": "Technical Expertise",
+    "title": "Skills & Technologies",
+    "subtitle": "Expert-level proficiency in modern web development technologies and frameworks",
+    "vue": "Expert",
+    "nuxt": "Expert",
+    "angular": "Advanced",
+    "dotnet": "Advanced",
+    "typescript": "Expert",
+    "nodejs": "Advanced",
+    "postgresql": "Advanced",
+    "docker": "Intermediate"
+  },
+  "projects": {
+    "badge": "Portfolio",
+    "title": "Featured Projects",
+    "subtitle": "A selection of systems and applications I've built and contributed to",
+    "startProject": "Start Your Project",
+    "viewDetails": "View Details",
+    "readyToStart": "Ready to Build Your System?",
+    "ctaDescription": "Let's start building something amazing together. Choose your system type and get a quote within minutes.",
+    "contactUs": "Contact Us on WhatsApp",
+    "ecommerce": {
+      "title": "E-Commerce Platform",
+      "description": "Full-featured online store with payment integration, inventory management, and admin dashboard."
+    },
+    "medical": {
+      "title": "Medical Management System",
+      "description": "Comprehensive healthcare platform with patient records, appointments, and billing modules."
+    },
+    "restaurant": {
+      "title": "Restaurant POS System",
+      "description": "Modern point-of-sale system with order management, kitchen display, and analytics."
+    },
+    "school": {
+      "title": "School Management Portal",
+      "description": "Educational platform for student management, grading, and parent communication."
+    },
+    "realestate": {
+      "title": "Real Estate Platform",
+      "description": "Property listing and management system with search, booking, and agent tools."
+    },
+    "analytics": {
+      "title": "Analytics Dashboard",
+      "description": "Data visualization platform with real-time charts, reports, and export features."
+    }
+  },
+  "builder": {
+    "title": "System Builder",
+    "subtitle": "Design and request your custom system in minutes",
+    "step": "Step",
+    "step1": {
+      "title": "System Type",
+      "subtitle": "Select the type of system you need",
+      "medical": "Medical System",
+      "restaurant": "Restaurant System",
+      "school": "School System",
+      "custom": "Custom System"
+    },
+    "step2": {
+      "title": "Select Modules",
+      "subtitle": "Choose the features you need",
+      "selectModules": "Select modules to add to your system",
+      "noModules": "No modules available for this system type"
+    },
+    "step3": {
+      "title": "Your Details",
+      "subtitle": "Tell us about yourself",
+      "name": "Your Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "whatsapp": "WhatsApp Number",
+      "whatsappPlaceholder": "Enter your WhatsApp number",
+      "description": "Project Description",
+      "descriptionPlaceholder": "Describe your project requirements...",
+      "optional": "Optional"
+    },
+    "totalPrice": "Total Price",
+    "modules": "modules selected",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit Request",
+    "submitting": "Submitting...",
+    "success": {
+      "title": "Request Submitted!",
+      "message": "Thank you for your request. We'll contact you within 24 hours.",
+      "backHome": "Back to Home",
+      "newRequest": "New Request"
+    },
+    "errors": {
+      "selectSystem": "Please select a system type",
+      "selectModules": "Please select at least one module",
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "whatsappRequired": "WhatsApp number is required"
+    }
+  },
+  "admin": {
+    "login": {
+      "title": "Admin Login",
+      "subtitle": "Sign in to access the dashboard",
+      "email": "Email",
+      "password": "Password",
+      "signIn": "Sign In",
+      "backHome": "Back to Home"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "subtitle": "Manage your orders and system requests",
+      "totalOrders": "Total Orders",
+      "newOrders": "New Orders",
+      "inProgress": "In Progress",
+      "revenue": "Revenue",
+      "totalRevenue": "Total Revenue",
+      "recentOrders": "Recent Orders",
+      "allStatus": "All Status",
+      "status": {
+        "new": "New",
+        "inProgress": "In Progress",
+        "completed": "Completed"
+      },
+      "active": "Active"
+    },
+    "orders": {
+      "client": "Client",
+      "systemType": "System Type",
+      "modules": "Modules",
+      "price": "Price",
+      "status": "Status",
+      "date": "Date",
+      "actions": "Actions",
+      "updateStatus": "Update Status"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "logout": "Logout"
+    }
+  },
+  "footer": {
+    "brand": "Full Stack Developer specializing in modern web technologies. Building exceptional digital experiences that drive business growth.",
+    "quickLinks": "Quick Links",
+    "getInTouch": "Get In Touch",
+    "adminDashboard": "Admin Dashboard",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with"
+  },
+  "whatsapp": {
+    "message": "Hello Mohammed, I would like to build a custom system."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  }
+}
