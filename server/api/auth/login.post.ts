@@ -18,7 +18,7 @@ export default defineEventHandler(async (event) => {
     // Validate input
     const validatedData = loginSchema.parse(body);
 
-    // Find user
+    // Find user in database
     const user = await prisma.user.findUnique({
       where: { email: validatedData.email },
     });
